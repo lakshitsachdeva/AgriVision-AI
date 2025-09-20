@@ -126,26 +126,6 @@ streamlit run deploy/streamlit/app.py
 
 # Open your browser to: http://localhost:8501
 ```
-
-### Quick API Usage
-
-```python
-from src.preprocessing.advanced_pipeline import AdvancedAgriPreprocessor
-from src.models.architectures import create_agri_model
-
-# Initialize preprocessor
-preprocessor = AdvancedAgriPreprocessor()
-
-# Load and process image
-results = preprocessor.process_image_from_path('path/to/crop_image.jpg')
-
-# Create and use model
-model = create_agri_model('ensemble', 'maize', num_classes=5)
-prediction = model(processed_image)
-
-print(f"Disease detected: {prediction}")
-```
-
 ---
 
 ## 📊 Performance Metrics
