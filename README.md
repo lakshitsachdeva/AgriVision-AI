@@ -2,18 +2,16 @@
 
 <div align="center">
 
-![AgriVision-AI Logo](assets/logo.png)
 
 **Advanced AI-Powered Crop Disease Detection System**
 
-*Empowering 150M+ smallholder farmers with real-time, accurate disease diagnosis*
+*Empowering smallholder farmers with real-time, accurate disease diagnosis*
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-green.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[🚀 **Try Live Demo**](https://agrivision-ai.streamlit.app) | [📊 **Research Paper**](docs/research/AgriVision_AI_Paper.pdf) | [🎥 **Watch Demo Video**](https://youtu.be/demo)
 
 </div>
 
