@@ -357,29 +357,8 @@ mypy src/
 
 | Dataset | Crop | Images | Classes | Source |
 |---------|------|--------|---------|---------|
-| Custom Maize 2024 | Maize | 15,000 | 5 | Field collection |
-| Custom Sugarcane 2024 | Sugarcane | 12,000 | 6 | Field collection |
 | PlantVillage | Mixed | 54,000 | 38 | Public dataset |
 | iCassava 2019 | Cassava | 21,000 | 5 | Competition dataset |
-
----
-
-## 🏆 Achievements & Recognition
-
-### Awards & Competitions
-- 🥇 **Best Agricultural AI Solution** - IIT Fellowship Program 2024
-- 🥈 **Innovation in Sustainable Agriculture** - AgriTech Awards 2024
-- 🏆 **People's Choice Award** - National AI Summit 2024
-
-### Media Coverage
-- 📰 **The Hindu**: "AI Revolution in Indian Agriculture"
-- 📺 **NDTV**: Featured in "Tech for Tomorrow" segment
-- 🎙️ **All India Radio**: Interview on agricultural technology
-
-### Research Publications
-- **[IEEE TPAMI]**: "Multi-Stage Preprocessing for Agricultural Disease Detection"
-- **[Nature Agriculture]**: "AI-Driven Crop Health Assessment at Scale"
-- **[CVPR Workshop]**: "Vision Transformers for Agricultural Applications"
 
 ---
 
@@ -416,45 +395,6 @@ mypy src/
 
 ---
 
-## 🤝 Partnerships & Collaboration
-
-### Academic Collaborations
-- 🎓 **Indian Institute of Technology** - Core research and development
-- 🎓 **Indian Agricultural Research Institute (IARI)** - Domain expertise
-- 🎓 **International Rice Research Institute (IRRI)** - Global perspective
-
-### Industry Partners
-- 🏭 **Mahindra Agritech** - Field testing and deployment
-- 🏭 **ITC Limited** - Supply chain integration
-- 🏭 **NVIDIA** - GPU computing and edge deployment
-
-### Government Support
-- 🏛️ **Ministry of Agriculture** - Policy alignment and funding
-- 🏛️ **Department of Science & Technology** - Research grants
-- 🏛️ **Digital India Initiative** - Technology adoption
-
----
-
-## 📈 Business Model & Sustainability
-
-### Revenue Streams
-
-1. **Freemium SaaS**: Basic detection free, advanced analytics premium
-2. **B2B Licensing**: White-label solutions for agribusiness
-3. **Data Insights**: Anonymized agricultural intelligence
-4. **Hardware Partnerships**: Embedded solutions for IoT devices
-
-### Sustainability Metrics
-
-| SDG Goal | Contribution | Measurement |
-|----------|-------------|-------------|
-| **SDG 1: No Poverty** | Increased farmer income | $500+ per farmer annually |
-| **SDG 2: Zero Hunger** | Reduced food loss | 20% reduction in crop loss |
-| **SDG 8: Decent Work** | Agricultural employment | 50,000 jobs supported |
-| **SDG 9: Innovation** | Technology adoption | 1M+ farmers using AI |
-
----
-
 ## 🎯 Call to Action
 
 ### For Researchers
@@ -482,21 +422,12 @@ mypy src/
 ## 📞 Contact & Support
 
 ### Team Contact
-- 📧 **Email**: lakshitsachdeva@example.com
+- 📧 **Email**: lakshits.official@gmail.com
 - 💼 **LinkedIn**: [Connect with the team](https://linkedin.com/in/lakshitsachdeva)
-- 🐦 **Twitter**: [@AgriVisionAI](https://twitter.com/agrivisionai)
 
 ### Technical Support
-- 💬 **GitHub Issues**: [Report bugs and request features](https://github.com/your-username/AgriVision-AI/issues)
-- 📚 **Documentation**: [Comprehensive guides and APIs](docs/)
-- 🎥 **Video Tutorials**: [YouTube Channel](https://youtube.com/@agrivisionai)
-
-### Community
-- 👥 **Discord**: Join our developer community
-- 📧 **Newsletter**: Monthly updates and insights
-- 🎪 **Events**: Webinars and conference presentations
-
----
+- 💬 **GitHub Issues**: [Report bugs and request features](https://github.com/lakshitsachdeva/AgriVision-AI/issues)
+  
 
 ## 📜 License & Citations
 
@@ -515,12 +446,6 @@ If you use AgriVision-AI in your research, please cite:
 }
 ```
 
-### Acknowledgments
-- 🙏 **IIT Fellowship Program** for funding and mentorship
-- 🙏 **Farmers** who provided images and feedback for model training
-- 🙏 **Open Source Community** for tools and libraries that made this possible
-
----
 
 <div align="center">
 
